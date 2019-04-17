@@ -33,3 +33,7 @@ To Do:
 | Project Milestone 3 | Unknown | 23/4|
 
 ![alt text](https://github.com/csci3250-2019/student-1155108532/blob/master/1wts.jpeg)
+![alt text](https://github.com/csci3250-2019/student-1155108532/blob/master/2wts.jpeg)
+![alt text](https://github.com/csci3250-2019/student-1155108532/blob/master/3wts.jpeg)
+![alt text](https://github.com/csci3250-2019/student-1155108532/blob/master/4wts.jpeg)
+![alt text](https://github.com/csci3250-2019/student-1155108532/blob/master/5wts.jpeg)
