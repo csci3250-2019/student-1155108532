@@ -31,3 +31,5 @@ To Do:
 | Project Milestone 2 | create a repo | 14/4 |
 | Quiz | Will be done | 16/4 |
 | Project Milestone 3 | Unknown | 23/4|
+
+![alt text](https://github.com/csci3250-2019/student-1155108532/blob/master/1wts.jpeg)
